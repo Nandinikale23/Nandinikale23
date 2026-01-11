@@ -11,7 +11,7 @@ I'm Nandini, IT Engineering student with good knowledge of C, C++,<br>Python, SQ
 ![](https://github-readme-stats.vercel.app/api?username=Nandinikale23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Nandinikale23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandinikale23&theme=dark&hide_border=false&layout=compact)
-username=Nandinikale23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nandinikale23&theme=dark&margin-w=4)
