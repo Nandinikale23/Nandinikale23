@@ -16,19 +16,14 @@ I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nandinikale23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Nandinikale23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Nandinikale23&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=Nandinikale23&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandinikale23&theme=dark&hide_border=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandinikale23&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Nandinikale23&theme=radical)
-
-
+![](https://github-profile-trophy.vercel.app/?username=Nandinikale23&theme=radical&no-frame=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nandinikale23&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=Nandinikale23&icon=4&color=0)
