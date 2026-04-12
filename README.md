@@ -1,5 +1,15 @@
-# 💫 Hi, I'm Nandini Kale 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Full+Stack+Enthusiast)
+# 💫 Hi, I'm Nandini 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Full+Stack+Enthusiast)<h1 align="center">
+  Hi 👋, I'm Nandini 
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+Learner;Full+Stack+Enthusiast" />
+</p>
 
 # 💫 About Me:
 I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,MYSQL,PYTHON,DJANGO.<br>Currently, I am learning AI/ML and enjoy building projects<br>while continuously improving my coding and problem-solving skills 🚀
