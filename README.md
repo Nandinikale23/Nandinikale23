@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,MYSQL,PYTHON,DJANGO.<br>Currently, I am learning AI/ML and enjoy building projects<br>while continuously improving my coding and problem-solving skills 🚀
+I'm Nandini, IT Engineering student with good knowledge of HTML,CSS,MYSQL,PYTHON,DJANGO.<br>Currently, I am learning AI/ML and enjoy building projects<br>while continuously improving my coding and problem-solving skills 🚀
 
 
 ## 🌐 Socials:
@@ -29,11 +29,12 @@ I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,
 ---
 ![](https://visitcount.itsvg.in/api?id=Nandinikale23&icon=4&color=0)
 
-## 🐍 Contribution Snake
-https://github.com/Nandinikale23/Nandinikale23/blob/output/github-contribution-grid-snake.svg
+---
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nandinikale23&label=Visitors&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nandinikale23?label=Followers)
