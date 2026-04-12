@@ -27,3 +27,6 @@ I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Nandinikale23&icon=4&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Nandinikale23)
+![Followers](https://img.shields.io/github/followers/Nandinikale23?label=Followers)
+![Stars](https://img.shields.io/github/stars/Nandinikale23?label=Stars)
