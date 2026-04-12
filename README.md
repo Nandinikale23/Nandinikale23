@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nandini </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+Learner;Full+Stack+Enthusiast;Open+to+Internships" />
-</p>
 
 # 💫 About Me:
 I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,MYSQL,PYTHON,DJANGO.<br>Currently, I am learning AI/ML and enjoy building projects<br>while continuously improving my coding and problem-solving skills 🚀
@@ -35,7 +30,7 @@ I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,
 ![](https://visitcount.itsvg.in/api?id=Nandinikale23&icon=4&color=0)
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Nandinikale23/Nandinikale23/blob/output/github-contribution-grid-snake.svg)
+https://github.com/Nandinikale23/Nandinikale23/blob/output/github-contribution-grid-snake.svg
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
