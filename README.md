@@ -24,7 +24,8 @@ I'm Nandini, IT Engineering student with good knowledge of C, C++,<br> HTML,CSS,
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nandinikale23&theme=dark&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Nandinikale23&theme=radical)
+
 
 
 ---
